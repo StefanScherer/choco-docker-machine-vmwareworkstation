@@ -7,7 +7,7 @@
 This is a chocolatey package for the docker-machine vmwareworkstation driver plugin. Please see MAINTENANCE.md
 for information on how to upkeep it.
 
-To use, simply run `choco install docker-machine -y` (this may need a `-pre`
+To use, simply run `choco install docker-machine-vmwareworkstation -y` (this may need a `-pre`
 flag also if it hasn't gone through moderation).
 
 # Links
