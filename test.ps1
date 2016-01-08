@@ -21,6 +21,9 @@ if ($env:APPVEYOR_BUILD_VERSION) {
   $version = $spec.package.metadata.version
 }
 
+"TEST: Installation of docker-machine should work"
+. choco install -y docker-machine
+
 "TEST: Version $version in docker-machine-vmwareworkstation.nuspec file should match"
 [xml]$spec = Get-Content docker-machine-vmwareworkstation.nuspec
 if ($spec.package.metadata.version.CompareTo($version)) {
