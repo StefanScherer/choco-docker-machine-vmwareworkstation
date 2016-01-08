@@ -9,6 +9,9 @@
     <summary>VMWare Workstation driver for Docker Machine</summary>
     <description>Machine lets you create Docker hosts on your computer, on cloud providers, and inside your own data center. It creates servers, installs Docker on them, then configures the Docker client to talk to them.
     </description>
+    <dependencies>
+      <dependency id="docker-machine" version="0.5.5" />
+    </dependencies>
     <projectUrl>https://github.com/docker/machine</projectUrl>
     <packageSourceUrl>https://github.com/StefanScherer/choco-docker-machine-vmwareworkstation</packageSourceUrl>
     <projectSourceUrl>https://github.com/pecigonzalo/docker-machine-vmwareworkstation</projectSourceUrl>
