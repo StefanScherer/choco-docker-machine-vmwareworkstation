@@ -1,8 +1,8 @@
 # chocolatey installer for docker-machine
 
-[![Latest version released](https://img.shields.io/chocolatey/v/docker-machine.svg)](https://chocolatey.org/packages/docker-machine)
-[![Package downloads count](https://img.shields.io/chocolatey/dt/docker-machine.svg)](https://chocolatey.org/packages/docker-machine)
-[![Build status](https://ci.appveyor.com/api/projects/status/kar8vn7rcytkttnb/branch/master?svg=true)](https://ci.appveyor.com/project/StefanScherer/choco-docker-machine/branch/master)
+[![Latest version released](https://img.shields.io/chocolatey/v/docker-machine-vmwareworkstation.svg)](https://chocolatey.org/packages/docker-machine-vmwareworkstation)
+[![Package downloads count](https://img.shields.io/chocolatey/dt/docker-machine-vmwareworkstation.svg)](https://chocolatey.org/packages/docker-machine-vmwareworkstation)
+[![Build status](https://ci.appveyor.com/api/projects/status/ooidijvs71yxd1o6?svg=true)](https://ci.appveyor.com/project/StefanScherer/choco-docker-machine-vmwareworkstation)
 
 This is a chocolatey package for docker-machine. Please see MAINTENANCE.md
 for information on how to upkeep it.
