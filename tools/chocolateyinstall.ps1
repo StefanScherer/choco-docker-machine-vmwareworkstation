@@ -1,9 +1,9 @@
 $packageName    = 'docker-machine-vmwareworkstation'
 $driverName     = 'docker-machine-driver-vmwareworkstation'
-$url            = 'https://github.com/pecigonzalo/docker-machine-vmwareworkstation/releases/download/v0.9.0/docker-machine-driver-vmwareworkstation.exe'
-$checksum       = '73a9ef81075cc5d9c3edd1512aea49b8'
-$url64          = 'https://github.com/pecigonzalo/docker-machine-vmwareworkstation/releases/download/v0.9.0/docker-machine-driver-vmwareworkstation.exe'
-$checksum64     = '73a9ef81075cc5d9c3edd1512aea49b8'
+$url            = 'https://github.com/pecigonzalo/docker-machine-vmwareworkstation/releases/download/v1.0.10/docker-machine-driver-vmwareworkstation.exe'
+$checksum       = 'f5057969ac5b30ff5d1ad1d5d337aa5c'
+$url64          = 'https://github.com/pecigonzalo/docker-machine-vmwareworkstation/releases/download/v1.0.10/docker-machine-driver-vmwareworkstation.exe'
+$checksum64     = 'f5057969ac5b30ff5d1ad1d5d337aa5c'
 $checksumType   = 'md5'
 $checksumType64 = 'md5'
 
