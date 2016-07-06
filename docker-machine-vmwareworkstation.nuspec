@@ -10,7 +10,7 @@
     <description>Machine lets you create Docker hosts on your computer, on cloud providers, and inside your own data center. It creates servers, installs Docker on them, then configures the Docker client to talk to them.
     </description>
     <dependencies>
-      <dependency id="docker-machine" version="0.7.0" />
+      <dependency id="docker-machine" />
     </dependencies>
     <projectUrl>https://github.com/pecigonzalo/docker-machine-vmwareworkstation</projectUrl>
     <packageSourceUrl>https://github.com/StefanScherer/choco-docker-machine-vmwareworkstation</packageSourceUrl>
