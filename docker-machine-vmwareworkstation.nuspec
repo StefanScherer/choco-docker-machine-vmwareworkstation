@@ -17,7 +17,7 @@
     <projectSourceUrl>https://github.com/pecigonzalo/docker-machine-vmwareworkstation</projectSourceUrl>
     <docsUrl>https://github.com/pecigonzalo/docker-machine-vmwareworkstation#usage</docsUrl>
     <bugTrackerUrl>https://github.com/pecigonzalo/docker-machine-vmwareworkstation/issues</bugTrackerUrl>
-    <iconUrl>https://raw.githubusercontent.com/docker/machine/master/docs/img/logo.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/docker/docker.github.io/master/machine/img/logo.png</iconUrl>
     <licenseUrl>https://github.com/pecigonzalo/docker-machine-vmwareworkstation/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>docker-machine docker vmware workstation</tags>
